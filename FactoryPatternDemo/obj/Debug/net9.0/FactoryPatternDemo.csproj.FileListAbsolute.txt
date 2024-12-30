@@ -1,0 +1,14 @@
+C:\Users\aless\Documents\Projects\FactoryPatternDemo\FactoryPatternDemo\bin\Debug\net9.0\FactoryPatternDemo.exe
+C:\Users\aless\Documents\Projects\FactoryPatternDemo\FactoryPatternDemo\bin\Debug\net9.0\FactoryPatternDemo.deps.json
+C:\Users\aless\Documents\Projects\FactoryPatternDemo\FactoryPatternDemo\bin\Debug\net9.0\FactoryPatternDemo.runtimeconfig.json
+C:\Users\aless\Documents\Projects\FactoryPatternDemo\FactoryPatternDemo\bin\Debug\net9.0\FactoryPatternDemo.dll
+C:\Users\aless\Documents\Projects\FactoryPatternDemo\FactoryPatternDemo\bin\Debug\net9.0\FactoryPatternDemo.pdb
+C:\Users\aless\Documents\Projects\FactoryPatternDemo\FactoryPatternDemo\obj\Debug\net9.0\FactoryPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Documents\Projects\FactoryPatternDemo\FactoryPatternDemo\obj\Debug\net9.0\FactoryPatternDemo.AssemblyInfoInputs.cache
+C:\Users\aless\Documents\Projects\FactoryPatternDemo\FactoryPatternDemo\obj\Debug\net9.0\FactoryPatternDemo.AssemblyInfo.cs
+C:\Users\aless\Documents\Projects\FactoryPatternDemo\FactoryPatternDemo\obj\Debug\net9.0\FactoryPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\aless\Documents\Projects\FactoryPatternDemo\FactoryPatternDemo\obj\Debug\net9.0\FactoryPatternDemo.dll
+C:\Users\aless\Documents\Projects\FactoryPatternDemo\FactoryPatternDemo\obj\Debug\net9.0\refint\FactoryPatternDemo.dll
+C:\Users\aless\Documents\Projects\FactoryPatternDemo\FactoryPatternDemo\obj\Debug\net9.0\FactoryPatternDemo.pdb
+C:\Users\aless\Documents\Projects\FactoryPatternDemo\FactoryPatternDemo\obj\Debug\net9.0\FactoryPatternDemo.genruntimeconfig.cache
+C:\Users\aless\Documents\Projects\FactoryPatternDemo\FactoryPatternDemo\obj\Debug\net9.0\ref\FactoryPatternDemo.dll
